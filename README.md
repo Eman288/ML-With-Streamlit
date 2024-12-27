@@ -77,11 +77,11 @@ ML-With-Streamlit/
 ---
 ## Contributing  
 
-Eman Tamam: [Eman288](https://github.com/Eman288)  
-Amna Abd-Elrazek: [amnaabdelrazek](https://github.com/amnaabdelrazek)
-Arwa Mostafa: [ArwaMostafa19](https://github.com/ArwaMostafa19)
-Arwa Khaled: [arwakhaled123](https://github.com/arwakhaled123)
-Yasmeen Khaled: [YasmeenFci](https://github.com/YasmeenFci)
+- Eman Tamam: [Eman288](https://github.com/Eman288)  
+- Amna Abd-Elrazek: [amnaabdelrazek](https://github.com/amnaabdelrazek)
+- Arwa Mostafa: [ArwaMostafa19](https://github.com/ArwaMostafa19)
+- Arwa Khaled: [arwakhaled123](https://github.com/arwakhaled123)
+- Yasmeen Khaled: [YasmeenFci](https://github.com/YasmeenFci)
 
 ---
 
