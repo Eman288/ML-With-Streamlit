@@ -8,14 +8,15 @@ This repository contains a collection of machine learning models deployed using 
 - **Streamlit-Powered Interface**: An intuitive and interactive web application.  
 - **Pre-Trained Models**: Includes popular ML models such as classification, regression, or clustering. 
 - **Real-Time Predictions**: Users can upload datasets or input values for real-time predictions.  
-- **Data Visualization**: Interactive visualizations for datasets and model insights.  
+- **Data Visualization**: Interactive visualizations for datasets and models insights.  
 ---
 
 ## Technologies Used  
 - **Python 3.8+**  
 - **Streamlit**  
 - **scikit-learn**  
-- **pandas**  
+- **pandas**
+- **numpy**  
 - **matplotlib/seaborn**  
 
 ---
