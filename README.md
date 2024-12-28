@@ -68,7 +68,7 @@ ML-With-Streamlit/
 ---
 
 ## How to Use  
-1. **Upload Dataset**: Upload your dataset in CSV format via the app interface.  
+1. **Upload Dataset**: Upload your dataset in csv or xlsx format via the app interface.  
 2. **Select Model**: Choose from the available machine learning models.  
 3. **Set Parameters**: Adjust model-specific parameters.  
 4. **View Results**: See predictions, evaluation metrics, and visualizations in real time.  
