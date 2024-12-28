@@ -31,12 +31,12 @@ To run this project locally, follow these steps:
 
 2. Create a virtual environment:  
    ```bash  
-   python -m venv venv  
-   source venv/bin/activate # On Windows: venv\Scripts\activate  
+   python -m venv environmentname  
+   source environmentname/bin/activate # On Windows: environmentname\Scripts\activate  
    ```  
 3. Activate the virtual environment:
    ```bash
-    venv\scripts\activate
+    environmentname\scripts\activate
    ```
 
 5. Install dependencies:  
